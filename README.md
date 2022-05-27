@@ -1,0 +1,2 @@
+# e-wallet
+I forgot my electrum 2fa wallet password. Hello! there is a seed, an authenticator. After restoring my wallet, my account balance is empty. I tried to solve the problem like this, I downloaded the seedtester from the github site, inserted the seed into the BIP39 mnemonic to search for private keys to import into the wallet, it didn’t work, all the lines are empty. It seems because of 2fa protection. please, does anyone know what can i do to get my bitcoins back?
